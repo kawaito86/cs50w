@@ -1,0 +1,137 @@
+header {
+  background-color: #fffbfb;
+  padding: 14px;
+  text-align: right;
+} 
+
+
+/* Styles for the search container */
+.search-container {
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Styles for the button container */
+.button-container {
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-height: 375px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+}
+
+.rounded-input {
+  display: flex;
+  box-shadow: ;
+  border-radius: 20px;
+  background: #fff;
+  border: 1px solid #dadce0;
+  width: 736px;
+  height: 48px;
+  padding: 0 16px;
+}
+
+/* Styles for the search input */
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+/* Styles for the Google Search button */
+#search-btn, #lucky-btn {
+  padding: 10px 16px;
+  margin-right: 6px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+#image-btn {
+  padding: 10px 16px;
+  margin-right: 6px;
+  margin-top: 15px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+
+/* Styles for the I'm Feeling Lucky button */
+#lucky-btn {
+  margin-right: 0;
+}
+/* Styles for the search container */
+.search-container {
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.advanced-search-container{
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Styles for the search input */
+#search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+/* Styles for the Advanced Search button */
+#advanced-search-btn {
+  padding: 10px 16px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+/* Styles for the image search container */
+.image-search-container {
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+/* Styles for the image search input */
+#image-search-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+/* Styles for the Image Search button */
+#image-search-btn {
+  padding: 10px 16px;
+  font-size: 16px;
+  border: 1px solid #dfe1e5;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
